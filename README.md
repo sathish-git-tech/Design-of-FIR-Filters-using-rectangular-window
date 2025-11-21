@@ -138,6 +138,6 @@ title("Frequency Response of FIR HPF using Rectangular Window (in dB)");
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9efd0dc7-5b36-40e6-9c14-3e3a65a308cb" />
 
 # RESULT
-```
+
 Thus FIR low pass and high pass filter design is performed using Rectangular Window.
-```
+
